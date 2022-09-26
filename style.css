@@ -1,0 +1,9 @@
+body { color: purple;
+     background: lightblue; }
+ .heading { width: 60%;
+     font-size: 25px; }
+  #camera { border: 2px dashed yellowgreen;
+     width: 390px;
+      height: 270px; } 
+     .name_of_objects, #result_object_name , #result_object_accuracy
+     { color:orangered; }
